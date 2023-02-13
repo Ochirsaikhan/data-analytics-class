@@ -1,7 +1,7 @@
 ---
 title: 'Victims of Breach?'
 description: 'In this article,I am discussing issues of responsibility and liability for the breach.'
-date: 2023-01-12
+date: 2023-02-12
 ---
 
 Firstly, the website administration has a responsibility to take reasonable measures to protect user data and to ensure that it is properly encrypted and secured. If the website administration failed to take these measures and the data was breached as a result, they could be considered responsible for the breach and any damages that resulted from it.
