@@ -1,7 +1,7 @@
 ---
-title: 'Post with all the markdown'
-description: 'A lot of markdown packages are installed to help you write your posts. All presets are personal preference.'
-date: 2022-11-02
+title: 'Victims of Breach?'
+description: 'In this article,I am discussing issues of responsibility and liability for the breach.'
+date: 2023-01-12
 ---
 
 A lot of markdown packages are installed to help you write your posts. You can configure them in `config/plugins/markdown.js`.
